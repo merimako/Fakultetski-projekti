@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{89095898-1EEF-0898-F4A4-2705A482AF5D}") = "Cube Simulator 3x3x3", "Assembly-CSharp.csproj", "{FBF908B8-808F-0D6E-FFC0-3464E5581A89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF908B8-808F-0D6E-FFC0-3464E5581A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF908B8-808F-0D6E-FFC0-3464E5581A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF908B8-808F-0D6E-FFC0-3464E5581A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF908B8-808F-0D6E-FFC0-3464E5581A89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
